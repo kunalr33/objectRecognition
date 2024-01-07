@@ -6,3 +6,4 @@ In this project, a convolutional neural network (CNN) deployed for object recogn
 Model accuracy is 90.88%.
 
  Results
+https://github.com/kunalr33/objectRecognition/issues/1#issue-2069137249
